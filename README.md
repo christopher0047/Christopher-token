@@ -1,5 +1,7 @@
 # Christopher-token
 ## Hello World today i'll show you the basic implementation of a token contract in Solidity, a programming language for smart contracts on the Ethereum blockchain.
+## Description
+this program represents a simple token contract with functionality to mint new tokens and burn existing tokens while keeping track of token balances for different etheruem
 # Getting Started
 ## Executing Program
  To run this program, you can use Remix, an online Solidity IDE. To get started, go to the Remix website at https://remix.ethereum.org/.
